@@ -78,14 +78,14 @@ combined.log contains all log messages.
 ├── package.json\
 ├── README.md\
 └── src\
-    ├── logger.js\
-    └── main.js\
+&emsp;├── logger.js\
+&emsp;└── main.js\
 
 ## .gitignore
 
 The following files are ignored to prevent reproducible or environment-specific data from being stored in the repository:
 
-node_modules/
-logs/
-.env
+node_modules/\
+logs/\
+.env\
 .DS_Store
