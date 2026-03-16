@@ -73,13 +73,13 @@ combined.log contains all log messages.
 ## Project Structure
 
 .
-├── .gitignore
-├── package-lock.json
-├── package.json
-├── README.md
-└── src
-    ├── logger.js
-    └── main.js
+├── .gitignore\
+├── package-lock.json\
+├── package.json\
+├── README.md\
+└── src\
+    ├── logger.js\
+    └── main.js\
 
 ## .gitignore
 
