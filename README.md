@@ -78,8 +78,8 @@ combined.log contains all log messages.
 ├── package.json\
 ├── README.md\
 └── src\
-&emsp;├── logger.js\
-&emsp;└── main.js\
+&emsp;&emsp;├── logger.js\
+&emsp;&emsp;└── main.js\
 
 ## .gitignore
 
