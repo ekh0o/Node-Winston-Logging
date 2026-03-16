@@ -1,0 +1,9 @@
+Node.js Logging Example using Winston
+
+Installation:
+npm install
+
+Run application:
+node src/main.js
+
+Logs are stored in the logs directory.
