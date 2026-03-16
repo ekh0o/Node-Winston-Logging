@@ -72,7 +72,7 @@ combined.log contains all log messages.
 
 ## Project Structure
 
-.
+.\
 ├── .gitignore\
 ├── package-lock.json\
 ├── package.json\
