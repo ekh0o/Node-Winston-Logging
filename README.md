@@ -11,21 +11,21 @@ This project demonstrates how to implement logging in a Node.js application usin
 
 Clone the repository:
 
-git clone https://github.com/ekh0o/Node-Winston-Logging/
+`git clone https://github.com/ekh0o/Node-Winston-Logging/`
 
 Navigate to the project directory:
 
-cd node-winston-logging
+`cd node-winston-logging`
 
 Install dependencies:
 
-npm install
+`npm install`
 
 ## Running the Application
 
 Run the application with:
 
-node src/main.js
+`node src/main.js`
 
 ## Logging Functionality
 
@@ -47,7 +47,7 @@ logger.error('This is an error message.');
 
 The logger is configured in:
 
-src/logger.js
+`src/logger.js`
 
 The logger uses:
 
